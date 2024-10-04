@@ -1,0 +1,10 @@
+body #adminmenu li.menu-top:hover .wp-menu-image img, #adminmenu li.wp-has-current-submenu .wp-menu-image img {
+    opacity: 1;
+    max-width: 25px;
+    width: 21px;
+}
+body #adminmenu li.menu-top .wp-menu-image img, #adminmenu li.wp-has-current-submenu .wp-menu-image img,#adminmenu .wp-menu-image img {
+    opacity: 1;
+    max-width: 25px;
+    width: 21px;
+}
